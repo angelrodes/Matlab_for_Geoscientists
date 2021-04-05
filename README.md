@@ -1,5 +1,5 @@
 # Matlab for Geoscientists
-Slides for the course "Matlab for Geoscientists". Supporting data and scripts generated during the course are in the folder "data_and_scripts".
+Slides for the course "Matlab for Geoscientists". Supporting data and scripts generated during the course are in the folder "files_and_scripts".
 Ángel Rodés, 2019
 
 ## Licence
