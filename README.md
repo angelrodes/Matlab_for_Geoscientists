@@ -25,3 +25,9 @@ you or your use
 * ShareAlike: If you remix, transform, or build upon the material, you
 must distribute your contributions under the same license as the orig-
 inal.
+
+## Cite
+
+Rodes, A. (2021). angelrodes/Matlab_for_Geoscientists: Matlab for Geoscientists (v1.0) [Computer software]. Zenodo. https://doi.org/10.5281/ZENODO.4663034 
+
+[![DOI](https://zenodo.org/badge/354895052.svg)](https://zenodo.org/badge/latestdoi/354895052)
